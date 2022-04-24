@@ -19,6 +19,14 @@ The contents hidden under `@between-javascript-state/shared`:
 - The most of `lib` folders contents
 - `components` folders contents
 
+## UI rendering library / framework
+
+We use [React](https://reactjs.org).
+
+- The most of disputes about state-management is going in React community.
+- The other frameworks / libraries either have their specific main-stream state-manager, either not so popular as React.
+- To replace UI rendering library, you just need to use its specific binding for chosen state-manager. So, actually, there is no difference.
+
 ## Use Cases requirements
 
 - Forms
